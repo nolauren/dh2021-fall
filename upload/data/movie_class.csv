@@ -1,5 +1,15 @@
 movie_title,director,country_of_origin,date_released,run_time,budget,boxoffice,color,win,genre
-Parasite,Bong Joon-Ho,KOR,2019-05-21,132,11,257.50,1,Y,comedy
+
+
+Nomadland,Chloe Zhao,US,2020-09-11,108,5,36.4,1,Y,drama
+The Father,Florian Zeller,US,2020-01-27,97,6,24.4,1,N,drama
+Judas and the Black Messiah,Shaka King,US,2021-02-01,126,26,7,1,N,drama
+Mank,David Fincher,US,2020-11-13,131,25,1,1,N,comedy
+Minari,Bong Joon-Ho,KOR,2019-05-21,132,11,257.50,1,N,comedy
+Promising Young Woman,Emerald Fennell,UK,2020-01-25,113,7,16.70,1,N,thriller
+Sound of Metal,Darius Marder,US,2020-11-20,120,5.4,1,1,N,drama
+The Trial of the Chicago 7,Aaron Sorkin,US,2020-09-25,130,35,1,1,N,comedy
+ Parasite,Bong Joon-Ho,KOR,2019-05-21,132,11,257.50,1,Y,comedy
 Ford v Ferrari,James Mangold,US,2019-08-30,152,98,225.50,1,N,action
 The Irishman,Martin Scorsese,US,2019-09-27,210,159,8.00,1,N,crime
 Jojo Rabbit,Taika Wititi,ZNL,2019-09-08,108,14,90.30,1,N,war
