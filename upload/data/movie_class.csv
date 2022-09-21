@@ -1,0 +1,60 @@
+movie_title,director,country_of_origin,date_released,run_time,budget,boxoffice,color,win,genre
+King Richard,Reinaldo Marcus Green,US,21/11/19,144,50,39.4,1,N,biographical
+CODA,Sian Heder,FR,21/08/13,111,10,1.6,1,Y,comedy
+West Side Story,Steven Spielberg,US,21/12/10,156,100,76,1,N,crime
+The Power of the Dog,Jane Campion,US,21/12/01,122,35,0.4,1,N,drama
+Licorice Pizza,Paul Thomas Anderson,US,21/11/26,133,40,27.7,1,N,comedy
+Belfast,Kenneth Branagh,UK,21/11/12,98,20,48.8,1,N,biographical
+Drive My Car,Ryusuke Murakami,JP,21/11/24,179,1.3,15.2,1,N,drama
+Dune,Denis Villeneuve,US,21/10/22,156,165,401.8,,N,science fiction
+Don't Look Up,Adam McKay,US,21/12/05,138,75,1.5,1,N,comedy
+Nightmare Alley,Guillermo del Toro,US,21/12/17,150,60,39.6,1,N,crime
+Nomadland,Chloe Zhao,US,20/09/11,108,5,36.4,1,Y,drama
+The Father,Florian Zeller,US,20/01/27,97,6,24.4,1,N,drama
+Judas and the Black Messiah,Shaka King,US,21/02/01,126,26,7,1,N,drama
+Mank,David Fincher,US,20/11/13,131,25,1,1,N,comedy
+Minari,Bong Joon-Ho,KOR,21/05/21,132,11,257.5,1,N,comedy
+Promising Young Woman,Emerald Fennell,UK,20/01/25,113,7,16.7,1,N,thriller
+Sound of Metal,Darius Marder,US,20/11/20,120,5.4,1,1,N,drama
+The Trial of the Chicago 7,Aaron Sorkin,US,20/09/25,130,35,1,1,N,comedy
+ Parasite,Bong Joon-Ho,KOR,19/05/21,132,11,257.5,1,Y,comedy
+Ford v Ferrari,James Mangold,US,19/08/30,152,98,225.5,1,N,action
+The Irishman,Martin Scorsese,US,19/09/27,210,159,8,1,N,crime
+Jojo Rabbit,Taika Wititi,ZNL,19/09/08,108,14,90.3,1,N,war
+Joker,Todd Phillips ,US,19/10/04,122,55,"1,074.00",1,N,thriller
+Little Women,Greta Gerwig,US,19/12/15,135,40,206,1,N,drama
+Marriage Story,Noah Baumbach,US,19/08/29,137,18,2.3,1,N,romance
+1917,Sam Mendes,US,19/12/04,119,95,385.3,1,N,drama
+Once Upon a Time in Hollywood,Quentin Tarantino,US,19/07/26,160,90,374.3,1,N,drama
+Black Panther,Ryan Coogler,US,18/02/16,134,200,"1,344.00",1,N,science fiction
+BlacKkKlansman,Spike Lee,US,18/05/14,135,15,93.4,1,N,biographical
+Bohemian Rhapsody,Bryan Singer,US,18/10/23,134,50,903.7,1,N,biographical
+The Favourite,Yorgos Lanthimos,US,18/07/29,120,15,95.9,1,N,comedy
+Roma,Alfonso Cuaron,MX,18/08/30,135,15,5.1,0,N,drama
+Green Book,Peter Farrelly,US,18/09/11,130,23,327.9,1,Y,historical
+A Star Is Born,Bradley Cooper,US,18/08/31,136,36,436.2,1,N,drama
+Vice,Adam McKay,US,18/12/11,132,60,76.1,1,N,biographical
+Call Me by Your Name,Luca Guadagnino,IT,17/01/22,132,4,41.9,1,N,drama
+The Shape of Water,Guillermo del Toro,US,17/08/31,123,20,195.3,1,Y,fantasy
+Darkest Hour,Joe Wright,US,17/09/01,125,30,150.9,1,N,historical
+Dunkirk,Christopher Nolan,UK,17/07/13,106,125,526.9,1,N,historical
+Lady Bird,Greta Gerwig,US,17/09/01,93,10,79,1,N,drama
+Phantom Thread,Paul Thomas Anderson,US,17/12/11,130,35,47.8,1,N,drama
+The Post,Steven Spielberg,US,17/12/14,116,50,179.8,1,N,historical
+Moonlight,Barry Jenkins,US,16/09/02,111,3,65.3,1,Y,drama
+Arrival,Denis Villeneuve,US,16/09/01,116,47,203.4,1,N,science fiction
+Fences,Denzel Washington,US,16/12/15,139,24,64.4,1,N,historical
+Hacksaw Ridge,Mel Gibson,US,16/09/04,139,40,180.4,1,N,biographical
+Hell or High Water,David Mackenzie,US,16/05/16,102,12,37.9,1,N,western
+Hidden Figures,Theodore Melfi,US,16/12/10,127,25,236,1,N,biographical
+La La Land,Damien Chazelle,US,16/08/31,128,30,446.5,1,N,musical
+Lion,Garth Davis,AU,16/09/10,118,12,140.3,1,N,western
+Manchester by the Sea,Kenneth Lonergan,US,16/01/23,137,9,79,1,N,drama
+The Big Short,Adam McKay,US,15/11/12,130,50,133.4,1,N,drama
+Bridge of Spies,Steven Spielberg,US,15/11/26,141,40,165.5,1,N,drama
+Brooklyn,John Crowley,UK,15/11/06,112,11,62.1,1,N,drama
+Mad Max: Fury Road,George Miller,US,15/05/07,120,150,375.2,1,N,action
+The Martian,Ridley Scott,US,15/09/11,130,108,630.2,1,N,science fiction
+The Revenant,Alejandro Iñárritu,US,15/12/16,156,135,533,1,N,action
+Room,Leonard Abrahamson,CA,15/09/04,118,13,36.3,1,N,drama
+Spotlight,Thomas McCarthy,US,15/09/03,129,20,98.3,1,Y,drama
