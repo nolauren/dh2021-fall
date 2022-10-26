@@ -15,6 +15,9 @@ libraries and data that we will be working with today.
 
 ```{r}
 #install.packages("topicmodels")
+
+remotes::install_github("statsmaths/smodels", force = TRUE, upgrade = "never")
+
 ```
 
 
